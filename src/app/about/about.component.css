@@ -1,0 +1,125 @@
+
+.landing-science__highlighted-inner{
+	background-color: #27a8e0;
+    padding: 33px;
+ 	margin: 0px 20px 70px; 
+}
+
+.landing-science__highlighted-text{
+	max-width: 570px;
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.landing-science__slogan{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 60px;
+}
+
+#slogan-btn{
+	position: absolute;
+	margin-bottom: 50px;
+}
+
+.section__title{
+    margin-bottom: 40px;
+    font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.landing-about{
+	height: 100%;
+	background-color: #FFFFFF;
+	position: relative;
+	padding: 50px;
+}
+
+.landing-about__items{
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+
+.landing-about__item{
+	width: 33%;
+	padding: 10px;
+}
+
+.aos-init{
+	text-align: center;
+}
+
+.landing-about__item-title {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    color: #000;
+	height: 65px;
+}
+
+.landing-about__item-text{
+	font-family: "Roboto";
+	font-size: 16px;
+}
+
+.landing-reviews{
+	height: 100%;
+	background-color: #f2f2f2;
+}
+
+.landing-reviews__users-numb{
+	margin: 0 auto;
+    font-size: 72px;
+    font-weight: 600px;
+    color: #27a8e0;
+    text-align: center;
+}
+
+
+.landing-reviews__users-text{
+	font-size: 16px;
+	text-align: center;
+	font-weight: 600;
+	color: #000;
+}
+
+.reviews{
+	
+  position: relative;
+  min-height: 100%;
+	display: inline-block;
+    width: 32.9%;
+    margin-bottom: 60px;
+    font-size: 14px;
+	flex-wrap: nowrap;
+}
+
+.review-foto{
+	margin: 0px 16px 16px 0px;
+    border-radius: 50%;
+	width: 63px;
+	height: 63px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.review-text{
+	line-height: 1.4;
+    max-width: 885px;
+	font-size: 14px;
+	height: 200px;
+}
+
+.review__bloquote{
+	display: flex;
+	flex-direction: column;
+}
